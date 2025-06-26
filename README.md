@@ -19,7 +19,7 @@ go get github.com/tsayukov/golanglib
 
 ## Usage
 
-TODO: add usage examples or links to them. 
+TODO: add usage examples or links to them.
 
 ## License
 
