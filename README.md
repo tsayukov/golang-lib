@@ -1,6 +1,6 @@
 # golang-lib
 
-This is a simple template of the Go library. Please go through all the TODOs
+This is a simple Go library template. Please go through all the TODOs
 in the files and fix them.
 
 ## Table of Contents
