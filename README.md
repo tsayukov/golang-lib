@@ -1,4 +1,5 @@
-# golang-lib
+<!-- TODO: set a name of the Go library -->
+# Go Library
 
 This is a simple Go library template. Please go through all the TODOs
 in the files and fix them.
