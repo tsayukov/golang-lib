@@ -1,6 +1,8 @@
 <!-- TODO: set a name of the Go library -->
 # Go Library
 
+[![Go Reference][go-ref-svg]][go-ref]
+
 This is a simple Go library template. Please go through all the TODOs
 in the files and fix them.
 
@@ -29,4 +31,8 @@ go get github.com/<owner>/<repository>
 This package is licensed under the terms of the MIT License
 (see [LICENSE][license] file).
 
+<!-- TODO: set a link to the repository -->
+[go-ref-svg]: https://pkg.go.dev/badge/github.com/<owner>/<repository>.svg
+<!-- TODO: set a link to the repository -->
+[go-ref]: https://pkg.go.dev/github.com/<owner>/<repository>
 [license]: ./LICENSE
