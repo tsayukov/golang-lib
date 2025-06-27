@@ -2,6 +2,7 @@
 # Go Library
 
 [![Go Reference][go-ref-svg]][go-ref]
+[![Build Status][ci-svg]][ci]
 
 This is a simple Go library template. Please go through all the TODOs
 in the files and fix them.
@@ -35,4 +36,8 @@ This package is licensed under the terms of the MIT License
 [go-ref-svg]: https://pkg.go.dev/badge/github.com/<owner>/<repository>.svg
 <!-- TODO: set a link to the repository -->
 [go-ref]: https://pkg.go.dev/github.com/<owner>/<repository>
+<!-- TODO: set a link to the repository -->
+[ci-svg]: https://github.com/<owner>/<repository>/actions/workflows/go.yaml/badge.svg
+<!-- TODO: set a link to the repository -->
+[ci]: https://github.com/<owner>/<repository>/actions/workflows/go.yaml
 [license]: ./LICENSE
