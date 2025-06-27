@@ -15,7 +15,7 @@ in the files and fix them.
 <!-- TODO: set a link to the repository -->
 
 ```bash
-go get github.com/tsayukov/golanglib
+go get github.com/<owner>/<repository>
 ```
 
 ## Usage
