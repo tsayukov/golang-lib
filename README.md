@@ -11,7 +11,7 @@ in the files and fix them.
 
 ## Installation
 
-TODO: change the repository link.
+<!-- TODO: set a link to the repository -->
 
 ```bash
 go get github.com/tsayukov/golanglib
@@ -19,11 +19,11 @@ go get github.com/tsayukov/golanglib
 
 ## Usage
 
-TODO: add usage examples or links to them.
+<!-- TODO: add usage examples or links to them -->
 
 ## License
 
-TODO: use a different license if you need to.
+<!-- TODO: use a different license if you need to -->
 
 This package is licensed under the terms of the MIT License
 (see [LICENSE][license] file).
